@@ -1,0 +1,8 @@
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/tasks/ConsumirApiMetodoGet.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/tasks/ConsumirApiCreacionEmpleados.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/util/LeerArchivoUtilidad.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/util/RecursosUtilidad.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/util/ConfiguracionDataTableUtilidad.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/models/Empleado.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/tasks/ConsumirApiMetodoPut.java
+/Users/andrescogi/Documents/ProyectosAutomatizacion/RetoLuloBank/ApiTestingLulo/src/main/java/co/com/lulobank/certificacion/tasks/ConsumirApiMetodoDelete.java
